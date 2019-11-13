@@ -1,5 +1,6 @@
-# Websites reporting on Interactive art
-- [creative applications](http://www.creativeapplications.net/)
+# Websites
+- [creative applications](http://www.creativeapplications.net/) - Daily Technological art website
+- [Taxonomy of media installations](https://mir.works/media-taxonomy?fbclid=IwAR1XUFsmKy5IE52BbWqL5zmfPSRe37d6Vun9eHKBf7Lk4aleVnkU660KozM) 
 
 # List of interesting Interactive art projects
 - [I forgot my phone](https://vimeo.com/73085316)
