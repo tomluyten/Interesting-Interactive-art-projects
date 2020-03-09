@@ -26,3 +26,4 @@
 - [Good Night Lamp](https://www.kickstarter.com/projects/designswarm/good-night-lamp)
 - [Playing with Pigs](http://www.playingwithpigs.nl/)
 - [Space Replay (black orb wants to talk)](http://ied.rca.ac.uk/de-computation/space-replay)
+- [Bittercoin](https://vimeo.com/324799436)
